@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "外形")(type "KiCad")(uri "$(KIPRJMOD)/外形.pretty")(options "")(descr ""))
+)
